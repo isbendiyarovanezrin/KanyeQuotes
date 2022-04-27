@@ -1,4 +1,4 @@
-### Random [Kanye West](https://youtu.be/DvhkjE9sDtI "Click me!😎") Quotes 🕶
+### Random [Kanye West](https://youtu.be/DvhkjE9sDtI "Click me!🎶") Quotes 🕶
 
 > “Distraction is the enemy of vision.” – Kanye West
 
@@ -10,4 +10,4 @@ This project is [**MIT**](https://github.com/isbendiyarovanezrin/KanyeQuotes/blo
 
 _Screenshot_
 
-[![Random Kanye quote generator screenshot](https://i.postimg.cc/gJHH5PdV/kanye.png)](https://youtu.be/S2-bjGkcaJI "Click me!😎")
+[<img width="75%" alt="Random Kanye quote generator screenshot" title="Click me!🎤" src="https://i.postimg.cc/gJHH5PdV/kanye.png">](https://youtu.be/S2-bjGkcaJI)
