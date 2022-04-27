@@ -30,7 +30,7 @@ body {
 }
 
 #text {
-  text-align: justify;
+  text-align: center;
   font: 500 2.8rem "Karla", sans-serif;
   background-clip: text;
   -webkit-background-clip: text !important;
@@ -70,6 +70,7 @@ body {
   -webkit-text-fill-color: #542f28;
 }
 
+/* loader start */
 #loadingDiv {
   display: flex;
   align-items: center;
@@ -86,8 +87,9 @@ body {
   height: 6.5rem;
   background: center / contain no-repeat url(../img/loader.gif);
 }
+/* loader end */
 
-/* media queries */
+/* media queries start */
 @media screen and (max-width: 900px) {
   .wrapper {
     max-width: 80vw;
@@ -117,3 +119,4 @@ body {
     font-size: 6px;
   }
 }
+/* media queries end */
