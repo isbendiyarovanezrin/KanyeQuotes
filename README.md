@@ -10,4 +10,4 @@ This project is [**MIT**](https://github.com/isbendiyarovanezrin/KanyeQuotes/blo
 
 _Screenshot_
 
-[<img width="75%" alt="Random Kanye quote generator screenshot" title="Click me!🎤" src="https://i.postimg.cc/gJHH5PdV/kanye.png">](https://youtu.be/S2-bjGkcaJI)
+[<img width="89%" alt="Random Kanye quote generator screenshot" title="Click me!🎤" src="https://i.postimg.cc/gJHH5PdV/kanye.png">](https://youtu.be/S2-bjGkcaJI)
